@@ -1,0 +1,57 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+background-color: blue;
+ color: rosybrown; 
+ margin: 10px;
+ padding: 5px;
+
+}
+header a {
+
+    color: coral;
+    text-decoration: solid;
+    padding: 10px;
+
+}
+nav {
+    text-align: center;
+}
+nav a {
+      border: 1px;
+      border-radius: 5px;
+      padding: 4px;
+      margin: 5px;
+      background-color: brown;
+color: aqua;
+text-decoration: solid;
+
+}
+h1{
+
+ color: bisque;
+background-color: black;
+padding: 20px;
+margin: 10px;
+
+}
+footer {
+
+    color: bisque;
+    background-color: black;
+}
+p {
+
+    background-color: lightgreen;
+
+}
+h2 {
+
+    color: blue;
+}
+p{
+
+    color: black;
+}
